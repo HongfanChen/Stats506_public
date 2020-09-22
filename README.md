@@ -9,5 +9,5 @@
 ##      2. Week 2: Practice w/ Basic R value assignment
 ##      3. Week 3 :Git and version control
 ## links of Hongfan Chen: https://github.com/HongfanChen/Stats506_public
-## links of HAO He:https: https://github.com/hhaohe513/Stats506_public
+## links of HAO He: https://github.com/hhaohe513/Stats506_public
 ## links of EunSeon Ahn : https://github.com/EunSeonAhn/Stats506_public
