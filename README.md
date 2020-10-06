@@ -14,7 +14,8 @@
       links of EunSeon Ahn : https://github.com/EunSeonAhn/Stats506_public
 
 ## Week 4-6
-      4. week 4:Into the Tidyverse
+      4. week 4: Into the Tidyverse and ggplot
+      5. week 5: Finish ggplot and peer review.
 
 
 
