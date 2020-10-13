@@ -16,7 +16,7 @@
 ## Week 4-6
       4. week 4: Into the Tidyverse and ggplot
       5. week 5: Finish ggplot and peer review.
-
+      6. week 6: Demographic tables with tidyverse
 
 
 ## Repositories of Group Members
