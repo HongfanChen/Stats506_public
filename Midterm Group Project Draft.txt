@@ -1,0 +1,18 @@
+Group Members:
+Hongfan Chen
+Yawen Hu
+Zhihao Xu
+Rithu Uppalapati
+
+Dataset
+Nhanes data.
+
+Regression Related Topics
+Estimating linear or non-linear combinations of regression coefficients (including standard errors).
+Including splines terms in regression models.
+Update a (non-Guassian / non-linear) GLM with new or omitted terms using estimated coefficient from a previous fit as starting values. Demonstrate timing efficiency relative to fitting from scratch.
+
+Hongfan Chen : Python, R
+Yawen Hu : STATA
+Zhihao Xu : R, Python
+Rithu Uppalapati : 
