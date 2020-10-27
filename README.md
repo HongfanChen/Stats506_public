@@ -25,3 +25,9 @@
       links of Suppapat Korsurat: https://github.com/skorsu/Stats506_public
       links of Irena Gershkovich: absent on September 29, 2020
       links of Hongfan Chen     : https://github.com/HongfanChen/Stats506_public
+
+## Midterm project
+## Repositories of Group Members
+      links of Zhihao Xu        : https://github.com/ZhihaoXu/Stats506_public
+      links of Rithu Uppalapati :
+      links of Yawen Hu         : https://github.com/yawenh/Stats506_public
