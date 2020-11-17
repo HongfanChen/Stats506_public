@@ -15,12 +15,13 @@ echo $message
 # a - download data if not present
 #<2> Uncomment the lines below and fill in the file name and url.
 file="recs2015_public_v4"
-url="https://www.eia.gov/consumption/residential/data/2015/csv/recs2015_public_v4.csv"
+url="https://www.eia.gov/consumption/residential/data/2015/csv/\
+recs2015_public_v4.csv"
 
 ## if the file doesn't exist
 if [ ! -f "$file" ]; then
 	  ##<3> Use wget to download the file
-	    wget https://www.eia.gov/consumption/residential/data/2015/csv/recs2015_public_v4.csv
+	    wget $url
 fi
 
 b - extract header row and output to a file with one name per line
@@ -49,4 +50,4 @@ cols=$(
 # d - cut out the appropriate columns and save as recs_brrweights.csv
 # <7> write your one-liner below
 <"$file" cut -f"$cols" -d, > recs_brrweights.csv
-79: ---------------------------------------------------------------------
+79: ---------------------------------------------------------------------------
