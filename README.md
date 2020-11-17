@@ -29,5 +29,5 @@
 ## Midterm project
 ## Repositories of Group Members
       links of Zhihao Xu        : https://github.com/ZhihaoXu/Stats506_public
-      links of Rithu Uppalapati :
+      links of Rithu Uppalapati : https://github.com/rurithu/Stats506_public
       links of Yawen Hu         : https://github.com/yawenh/Stats506_public
